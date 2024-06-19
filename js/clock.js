@@ -38,3 +38,5 @@ const setNowTime = (hour, minute) => {
 };
 getNowDate();
 getNowTime();
+
+setInterval(getNowTime, 1000);
