@@ -33,7 +33,7 @@ body {
 }
 
 .main-wrapper .date {
-  font-size: var(--larger);
+  font-size: var(--medium);
   font-weight: 400;
 }
 
